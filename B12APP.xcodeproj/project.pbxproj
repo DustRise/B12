@@ -7,6 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E50407C3175738B0000F156B /* showall.m in Sources */ = {isa = PBXBuildFile; fileRef = E50407C2175738B0000F156B /* showall.m */; };
+		E5071F11174F22860014D171 /* NUvvila.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E5071F10174F22860014D171 /* NUvvila.mp3 */; };
+		E5086EAF1761F78E00BCCF9B /* repeatDays.m in Sources */ = {isa = PBXBuildFile; fileRef = E5086EAE1761F78D00BCCF9B /* repeatDays.m */; };
+		E5086EB21761F8A500BCCF9B /* Settings.m in Sources */ = {isa = PBXBuildFile; fileRef = E5086EB11761F8A500BCCF9B /* Settings.m */; };
+		E5118ED217450CA300C27065 /* hipflex.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5118ECD17450CA300C27065 /* hipflex.jpg */; };
+		E5118ED317450CA300C27065 /* legraises.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5118ECE17450CA300C27065 /* legraises.jpg */; };
+		E5118ED417450CA300C27065 /* lyingonfloor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5118ECF17450CA300C27065 /* lyingonfloor.jpg */; };
+		E5118ED517450CA300C27065 /* pirlformis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5118ED017450CA300C27065 /* pirlformis.jpg */; };
+		E5118ED617450CA300C27065 /* harmstring.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5118ED117450CA300C27065 /* harmstring.jpg */; };
+		E54382F1174B3E8E001D150F /* AddToPlan.m in Sources */ = {isa = PBXBuildFile; fileRef = E54382F0174B3E8E001D150F /* AddToPlan.m */; };
+		E54B801C1744B4E600C2998D /* Morning.m in Sources */ = {isa = PBXBuildFile; fileRef = E54B801B1744B4E600C2998D /* Morning.m */; };
+		E54B80261744D12400C2998D /* 20130505_122523.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54B80251744D12400C2998D /* 20130505_122523.jpg */; };
+		E58FE32E17533557001FC19B /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = E58FE32D17533557001FC19B /* libsqlite3.0.dylib */; };
+		E58FE33517537805001FC19B /* B12database.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = E58FE33417537805001FC19B /* B12database.sqlite */; };
+		E59213431749F66C0078DD76 /* Standing.m in Sources */ = {isa = PBXBuildFile; fileRef = E59213421749F66C0078DD76 /* Standing.m */; };
+		E5921349174A00610078DD76 /* stand1.gif in Resources */ = {isa = PBXBuildFile; fileRef = E5921345174A00610078DD76 /* stand1.gif */; };
+		E592134A174A00610078DD76 /* stand2.gif in Resources */ = {isa = PBXBuildFile; fileRef = E5921346174A00610078DD76 /* stand2.gif */; };
+		E592134B174A00610078DD76 /* stand3.gif in Resources */ = {isa = PBXBuildFile; fileRef = E5921347174A00610078DD76 /* stand3.gif */; };
+		E592134C174A00610078DD76 /* stand4.gif in Resources */ = {isa = PBXBuildFile; fileRef = E5921348174A00610078DD76 /* stand4.gif */; };
+		E592135B174A04930078DD76 /* standingex.m in Sources */ = {isa = PBXBuildFile; fileRef = E592135A174A04930078DD76 /* standingex.m */; };
+		E5921361174A10D80078DD76 /* laying.m in Sources */ = {isa = PBXBuildFile; fileRef = E5921360174A10D80078DD76 /* laying.m */; };
+		E5921364174A15600078DD76 /* layingex.m in Sources */ = {isa = PBXBuildFile; fileRef = E5921363174A15600078DD76 /* layingex.m */; };
+		E5921374174A1BF60078DD76 /* office9.gif in Resources */ = {isa = PBXBuildFile; fileRef = E592136F174A1BEF0078DD76 /* office9.gif */; };
+		E5921375174A1BF60078DD76 /* office10.gif in Resources */ = {isa = PBXBuildFile; fileRef = E5921370174A1BEF0078DD76 /* office10.gif */; };
+		E5921376174A1BF60078DD76 /* office12.gif in Resources */ = {isa = PBXBuildFile; fileRef = E5921371174A1BF00078DD76 /* office12.gif */; };
+		E5921377174A1BF60078DD76 /* office13.gif in Resources */ = {isa = PBXBuildFile; fileRef = E5921372174A1BF10078DD76 /* office13.gif */; };
+		E5921378174A1BF60078DD76 /* office14.gif in Resources */ = {isa = PBXBuildFile; fileRef = E5921373174A1BF30078DD76 /* office14.gif */; };
+		E592137A174A2BCF0078DD76 /* office.GIF in Resources */ = {isa = PBXBuildFile; fileRef = E5921379174A2BCF0078DD76 /* office.GIF */; };
+		E5921380174A32110078DD76 /* chair1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E592137B174A32100078DD76 /* chair1.jpg */; };
+		E5921381174A32110078DD76 /* chair2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E592137C174A32100078DD76 /* chair2.jpg */; };
+		E5921382174A32110078DD76 /* chair3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E592137D174A32100078DD76 /* chair3.jpg */; };
+		E5921383174A32110078DD76 /* chair4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E592137E174A32110078DD76 /* chair4.jpg */; };
+		E5921384174A32110078DD76 /* chair5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E592137F174A32110078DD76 /* chair5.jpg */; };
+		E5921389174A373B0078DD76 /* lateralflexion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5921385174A373A0078DD76 /* lateralflexion.jpg */; };
+		E592138A174A373B0078DD76 /* neckextension.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5921386174A373A0078DD76 /* neckextension.jpg */; };
+		E592138B174A373B0078DD76 /* neckretraction.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5921387174A373B0078DD76 /* neckretraction.jpg */; };
+		E592138C174A373B0078DD76 /* neckroration.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5921388174A373B0078DD76 /* neckroration.jpg */; };
+		E5921391174A3D740078DD76 /* yoga-sleep-balasana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E592138D174A3D720078DD76 /* yoga-sleep-balasana.jpg */; };
+		E5921392174A3D740078DD76 /* yoga-sleep-marichyasana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E592138E174A3D720078DD76 /* yoga-sleep-marichyasana.jpg */; };
+		E5921393174A3D740078DD76 /* yoga-sleep-paschimottasana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E592138F174A3D730078DD76 /* yoga-sleep-paschimottasana.jpg */; };
+		E5921394174A3D740078DD76 /* yoga-sleep-starfish-savasana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5921390174A3D730078DD76 /* yoga-sleep-starfish-savasana.jpg */; };
+		E5921399174A44480078DD76 /* gastrocstretch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5921395174A44460078DD76 /* gastrocstretch.jpg */; };
+		E592139A174A44480078DD76 /* dorseflexion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5921396174A44460078DD76 /* dorseflexion.jpg */; };
+		E592139B174A44480078DD76 /* unilateralheelrise.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5921397174A44470078DD76 /* unilateralheelrise.jpg */; };
+		E592139C174A44480078DD76 /* isometricplantarflexion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5921398174A44470078DD76 /* isometricplantarflexion.jpg */; };
+		E59380811757789C00ABBAA5 /* A.MP3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = E59380801757789C00ABBAA5 /* A.MP3.aiff */; };
+		E593808417577A1B00ABBAA5 /* Arya_bgm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E593808317577A1B00ABBAA5 /* Arya_bgm.mp3 */; };
+		E5DDA89517575BBD00EC958D /* notification.m in Sources */ = {isa = PBXBuildFile; fileRef = E5DDA89417575BBD00EC958D /* notification.m */; };
 		E5F154A81741016E00BFC03E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5F154A71741016E00BFC03E /* UIKit.framework */; };
 		E5F154AA1741016E00BFC03E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5F154A91741016E00BFC03E /* Foundation.framework */; };
 		E5F154AC1741016E00BFC03E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5F154AB1741016E00BFC03E /* CoreGraphics.framework */; };
@@ -16,9 +64,70 @@
 		E5F154BB1741016E00BFC03E /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5F154B91741016E00BFC03E /* MainStoryboard_iPhone.storyboard */; };
 		E5F154BE1741016E00BFC03E /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5F154BC1741016E00BFC03E /* MainStoryboard_iPad.storyboard */; };
 		E5F154C11741016E00BFC03E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E5F154C01741016E00BFC03E /* ViewController.m */; };
+		FC2D89D417489EDF00BEBFB2 /* Nameofexercise.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2D89D317489EDF00BEBFB2 /* Nameofexercise.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E50407BF17573370000F156B /* mydatabase.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = mydatabase.sqlite; sourceTree = "<group>"; };
+		E50407C1175738B0000F156B /* showall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = showall.h; sourceTree = "<group>"; };
+		E50407C2175738B0000F156B /* showall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = showall.m; sourceTree = "<group>"; };
+		E5071F10174F22860014D171 /* NUvvila.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = NUvvila.mp3; sourceTree = "<group>"; };
+		E5086EAD1761F78D00BCCF9B /* repeatDays.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = repeatDays.h; sourceTree = "<group>"; };
+		E5086EAE1761F78D00BCCF9B /* repeatDays.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = repeatDays.m; sourceTree = "<group>"; };
+		E5086EB01761F89E00BCCF9B /* Settings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Settings.h; sourceTree = "<group>"; };
+		E5086EB11761F8A500BCCF9B /* Settings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Settings.m; sourceTree = "<group>"; };
+		E5086EB31761F8ED00BCCF9B /* insist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = insist.h; sourceTree = "<group>"; };
+		E5118ECD17450CA300C27065 /* hipflex.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hipflex.jpg; sourceTree = "<group>"; };
+		E5118ECE17450CA300C27065 /* legraises.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = legraises.jpg; sourceTree = "<group>"; };
+		E5118ECF17450CA300C27065 /* lyingonfloor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lyingonfloor.jpg; sourceTree = "<group>"; };
+		E5118ED017450CA300C27065 /* pirlformis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pirlformis.jpg; sourceTree = "<group>"; };
+		E5118ED117450CA300C27065 /* harmstring.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harmstring.jpg; sourceTree = "<group>"; };
+		E54382EF174B3E8E001D150F /* AddToPlan.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddToPlan.h; sourceTree = "<group>"; };
+		E54382F0174B3E8E001D150F /* AddToPlan.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddToPlan.m; sourceTree = "<group>"; };
+		E54B801A1744B4E600C2998D /* Morning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Morning.h; path = ../Morning.h; sourceTree = "<group>"; };
+		E54B801B1744B4E600C2998D /* Morning.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Morning.m; path = ../Morning.m; sourceTree = "<group>"; };
+		E54B80251744D12400C2998D /* 20130505_122523.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20130505_122523.jpg; sourceTree = "<group>"; };
+		E58FE32D17533557001FC19B /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		E58FE33417537805001FC19B /* B12database.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = B12database.sqlite; sourceTree = "<group>"; };
+		E59213411749F66C0078DD76 /* Standing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Standing.h; sourceTree = "<group>"; };
+		E59213421749F66C0078DD76 /* Standing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Standing.m; sourceTree = "<group>"; };
+		E5921345174A00610078DD76 /* stand1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stand1.gif; sourceTree = "<group>"; };
+		E5921346174A00610078DD76 /* stand2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stand2.gif; sourceTree = "<group>"; };
+		E5921347174A00610078DD76 /* stand3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stand3.gif; sourceTree = "<group>"; };
+		E5921348174A00610078DD76 /* stand4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stand4.gif; sourceTree = "<group>"; };
+		E5921359174A04930078DD76 /* standingex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = standingex.h; sourceTree = "<group>"; };
+		E592135A174A04930078DD76 /* standingex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = standingex.m; sourceTree = "<group>"; };
+		E592135F174A10D80078DD76 /* laying.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = laying.h; sourceTree = "<group>"; };
+		E5921360174A10D80078DD76 /* laying.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = laying.m; sourceTree = "<group>"; };
+		E5921362174A15600078DD76 /* layingex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = layingex.h; sourceTree = "<group>"; };
+		E5921363174A15600078DD76 /* layingex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = layingex.m; sourceTree = "<group>"; };
+		E592136F174A1BEF0078DD76 /* office9.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = office9.gif; sourceTree = "<group>"; };
+		E5921370174A1BEF0078DD76 /* office10.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = office10.gif; sourceTree = "<group>"; };
+		E5921371174A1BF00078DD76 /* office12.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = office12.gif; sourceTree = "<group>"; };
+		E5921372174A1BF10078DD76 /* office13.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = office13.gif; sourceTree = "<group>"; };
+		E5921373174A1BF30078DD76 /* office14.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = office14.gif; sourceTree = "<group>"; };
+		E5921379174A2BCF0078DD76 /* office.GIF */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = office.GIF; sourceTree = "<group>"; };
+		E592137B174A32100078DD76 /* chair1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chair1.jpg; sourceTree = "<group>"; };
+		E592137C174A32100078DD76 /* chair2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chair2.jpg; sourceTree = "<group>"; };
+		E592137D174A32100078DD76 /* chair3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chair3.jpg; sourceTree = "<group>"; };
+		E592137E174A32110078DD76 /* chair4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chair4.jpg; sourceTree = "<group>"; };
+		E592137F174A32110078DD76 /* chair5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chair5.jpg; sourceTree = "<group>"; };
+		E5921385174A373A0078DD76 /* lateralflexion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lateralflexion.jpg; sourceTree = "<group>"; };
+		E5921386174A373A0078DD76 /* neckextension.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neckextension.jpg; sourceTree = "<group>"; };
+		E5921387174A373B0078DD76 /* neckretraction.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neckretraction.jpg; sourceTree = "<group>"; };
+		E5921388174A373B0078DD76 /* neckroration.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neckroration.jpg; sourceTree = "<group>"; };
+		E592138D174A3D720078DD76 /* yoga-sleep-balasana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "yoga-sleep-balasana.jpg"; sourceTree = "<group>"; };
+		E592138E174A3D720078DD76 /* yoga-sleep-marichyasana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "yoga-sleep-marichyasana.jpg"; sourceTree = "<group>"; };
+		E592138F174A3D730078DD76 /* yoga-sleep-paschimottasana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "yoga-sleep-paschimottasana.jpg"; sourceTree = "<group>"; };
+		E5921390174A3D730078DD76 /* yoga-sleep-starfish-savasana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "yoga-sleep-starfish-savasana.jpg"; sourceTree = "<group>"; };
+		E5921395174A44460078DD76 /* gastrocstretch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gastrocstretch.jpg; sourceTree = "<group>"; };
+		E5921396174A44460078DD76 /* dorseflexion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dorseflexion.jpg; sourceTree = "<group>"; };
+		E5921397174A44470078DD76 /* unilateralheelrise.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = unilateralheelrise.jpg; sourceTree = "<group>"; };
+		E5921398174A44470078DD76 /* isometricplantarflexion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = isometricplantarflexion.jpg; sourceTree = "<group>"; };
+		E59380801757789C00ABBAA5 /* A.MP3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = A.MP3.aiff; sourceTree = "<group>"; };
+		E593808317577A1B00ABBAA5 /* Arya_bgm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Arya_bgm.mp3; sourceTree = "<group>"; };
+		E5DDA89317575BBD00EC958D /* notification.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = notification.h; sourceTree = "<group>"; };
+		E5DDA89417575BBD00EC958D /* notification.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = notification.m; sourceTree = "<group>"; };
 		E5F154A31741016E00BFC03E /* B12APP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = B12APP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5F154A71741016E00BFC03E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E5F154A91741016E00BFC03E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -33,6 +142,8 @@
 		E5F154BD1741016E00BFC03E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		E5F154BF1741016E00BFC03E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E5F154C01741016E00BFC03E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FC2D89D217489EDF00BEBFB2 /* Nameofexercise.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Nameofexercise.h; sourceTree = "<group>"; };
+		FC2D89D317489EDF00BEBFB2 /* Nameofexercise.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Nameofexercise.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +151,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E58FE32E17533557001FC19B /* libsqlite3.0.dylib in Frameworks */,
 				E5F154A81741016E00BFC03E /* UIKit.framework in Frameworks */,
 				E5F154AA1741016E00BFC03E /* Foundation.framework in Frameworks */,
 				E5F154AC1741016E00BFC03E /* CoreGraphics.framework in Frameworks */,
@@ -52,6 +164,9 @@
 		E5F154981741016E00BFC03E = {
 			isa = PBXGroup;
 			children = (
+				E58FE32D17533557001FC19B /* libsqlite3.0.dylib */,
+				E50407BF17573370000F156B /* mydatabase.sqlite */,
+				E58FE33417537805001FC19B /* B12database.sqlite */,
 				E5F154AD1741016E00BFC03E /* B12APP */,
 				E5F154A61741016E00BFC03E /* Frameworks */,
 				E5F154A41741016E00BFC03E /* Products */,
@@ -85,6 +200,29 @@
 				E5F154BC1741016E00BFC03E /* MainStoryboard_iPad.storyboard */,
 				E5F154BF1741016E00BFC03E /* ViewController.h */,
 				E5F154C01741016E00BFC03E /* ViewController.m */,
+				E54B801A1744B4E600C2998D /* Morning.h */,
+				E54B801B1744B4E600C2998D /* Morning.m */,
+				FC2D89D217489EDF00BEBFB2 /* Nameofexercise.h */,
+				FC2D89D317489EDF00BEBFB2 /* Nameofexercise.m */,
+				E59213411749F66C0078DD76 /* Standing.h */,
+				E59213421749F66C0078DD76 /* Standing.m */,
+				E592135F174A10D80078DD76 /* laying.h */,
+				E5921360174A10D80078DD76 /* laying.m */,
+				E5921359174A04930078DD76 /* standingex.h */,
+				E592135A174A04930078DD76 /* standingex.m */,
+				E5921362174A15600078DD76 /* layingex.h */,
+				E5921363174A15600078DD76 /* layingex.m */,
+				E54382EF174B3E8E001D150F /* AddToPlan.h */,
+				E54382F0174B3E8E001D150F /* AddToPlan.m */,
+				E50407C1175738B0000F156B /* showall.h */,
+				E50407C2175738B0000F156B /* showall.m */,
+				E5DDA89317575BBD00EC958D /* notification.h */,
+				E5DDA89417575BBD00EC958D /* notification.m */,
+				E5086EB01761F89E00BCCF9B /* Settings.h */,
+				E5086EB11761F8A500BCCF9B /* Settings.m */,
+				E5086EB31761F8ED00BCCF9B /* insist.h */,
+				E5086EAD1761F78D00BCCF9B /* repeatDays.h */,
+				E5086EAE1761F78D00BCCF9B /* repeatDays.m */,
 				E5F154AE1741016E00BFC03E /* Supporting Files */,
 			);
 			path = B12APP;
@@ -93,6 +231,42 @@
 		E5F154AE1741016E00BFC03E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E5071F10174F22860014D171 /* NUvvila.mp3 */,
+				E593808317577A1B00ABBAA5 /* Arya_bgm.mp3 */,
+				E59380801757789C00ABBAA5 /* A.MP3.aiff */,
+				E5921395174A44460078DD76 /* gastrocstretch.jpg */,
+				E5921396174A44460078DD76 /* dorseflexion.jpg */,
+				E5921397174A44470078DD76 /* unilateralheelrise.jpg */,
+				E5921398174A44470078DD76 /* isometricplantarflexion.jpg */,
+				E592138D174A3D720078DD76 /* yoga-sleep-balasana.jpg */,
+				E592138E174A3D720078DD76 /* yoga-sleep-marichyasana.jpg */,
+				E592138F174A3D730078DD76 /* yoga-sleep-paschimottasana.jpg */,
+				E5921390174A3D730078DD76 /* yoga-sleep-starfish-savasana.jpg */,
+				E5921345174A00610078DD76 /* stand1.gif */,
+				E5921346174A00610078DD76 /* stand2.gif */,
+				E5921347174A00610078DD76 /* stand3.gif */,
+				E5921348174A00610078DD76 /* stand4.gif */,
+				E5921379174A2BCF0078DD76 /* office.GIF */,
+				E592136F174A1BEF0078DD76 /* office9.gif */,
+				E5921370174A1BEF0078DD76 /* office10.gif */,
+				E5921371174A1BF00078DD76 /* office12.gif */,
+				E5921372174A1BF10078DD76 /* office13.gif */,
+				E5921373174A1BF30078DD76 /* office14.gif */,
+				E592137B174A32100078DD76 /* chair1.jpg */,
+				E592137C174A32100078DD76 /* chair2.jpg */,
+				E592137D174A32100078DD76 /* chair3.jpg */,
+				E592137E174A32110078DD76 /* chair4.jpg */,
+				E592137F174A32110078DD76 /* chair5.jpg */,
+				E5921385174A373A0078DD76 /* lateralflexion.jpg */,
+				E5921386174A373A0078DD76 /* neckextension.jpg */,
+				E5921387174A373B0078DD76 /* neckretraction.jpg */,
+				E5921388174A373B0078DD76 /* neckroration.jpg */,
+				E54B80251744D12400C2998D /* 20130505_122523.jpg */,
+				E5118ECD17450CA300C27065 /* hipflex.jpg */,
+				E5118ECE17450CA300C27065 /* legraises.jpg */,
+				E5118ECF17450CA300C27065 /* lyingonfloor.jpg */,
+				E5118ED017450CA300C27065 /* pirlformis.jpg */,
+				E5118ED117450CA300C27065 /* harmstring.jpg */,
 				E5F154AF1741016E00BFC03E /* B12APP-Info.plist */,
 				E5F154B01741016E00BFC03E /* InfoPlist.strings */,
 				E5F154B31741016E00BFC03E /* main.m */,
@@ -155,6 +329,43 @@
 				E5F154B21741016E00BFC03E /* InfoPlist.strings in Resources */,
 				E5F154BB1741016E00BFC03E /* MainStoryboard_iPhone.storyboard in Resources */,
 				E5F154BE1741016E00BFC03E /* MainStoryboard_iPad.storyboard in Resources */,
+				E54B80261744D12400C2998D /* 20130505_122523.jpg in Resources */,
+				E5118ED217450CA300C27065 /* hipflex.jpg in Resources */,
+				E5118ED317450CA300C27065 /* legraises.jpg in Resources */,
+				E5118ED417450CA300C27065 /* lyingonfloor.jpg in Resources */,
+				E5118ED517450CA300C27065 /* pirlformis.jpg in Resources */,
+				E5118ED617450CA300C27065 /* harmstring.jpg in Resources */,
+				E5921349174A00610078DD76 /* stand1.gif in Resources */,
+				E592134A174A00610078DD76 /* stand2.gif in Resources */,
+				E592134B174A00610078DD76 /* stand3.gif in Resources */,
+				E592134C174A00610078DD76 /* stand4.gif in Resources */,
+				E5921374174A1BF60078DD76 /* office9.gif in Resources */,
+				E5921375174A1BF60078DD76 /* office10.gif in Resources */,
+				E5921376174A1BF60078DD76 /* office12.gif in Resources */,
+				E5921377174A1BF60078DD76 /* office13.gif in Resources */,
+				E5921378174A1BF60078DD76 /* office14.gif in Resources */,
+				E592137A174A2BCF0078DD76 /* office.GIF in Resources */,
+				E5921380174A32110078DD76 /* chair1.jpg in Resources */,
+				E5921381174A32110078DD76 /* chair2.jpg in Resources */,
+				E5921382174A32110078DD76 /* chair3.jpg in Resources */,
+				E5921383174A32110078DD76 /* chair4.jpg in Resources */,
+				E5921384174A32110078DD76 /* chair5.jpg in Resources */,
+				E5921389174A373B0078DD76 /* lateralflexion.jpg in Resources */,
+				E592138A174A373B0078DD76 /* neckextension.jpg in Resources */,
+				E592138B174A373B0078DD76 /* neckretraction.jpg in Resources */,
+				E592138C174A373B0078DD76 /* neckroration.jpg in Resources */,
+				E5921391174A3D740078DD76 /* yoga-sleep-balasana.jpg in Resources */,
+				E5921392174A3D740078DD76 /* yoga-sleep-marichyasana.jpg in Resources */,
+				E5921393174A3D740078DD76 /* yoga-sleep-paschimottasana.jpg in Resources */,
+				E5921394174A3D740078DD76 /* yoga-sleep-starfish-savasana.jpg in Resources */,
+				E5921399174A44480078DD76 /* gastrocstretch.jpg in Resources */,
+				E592139A174A44480078DD76 /* dorseflexion.jpg in Resources */,
+				E592139B174A44480078DD76 /* unilateralheelrise.jpg in Resources */,
+				E592139C174A44480078DD76 /* isometricplantarflexion.jpg in Resources */,
+				E5071F11174F22860014D171 /* NUvvila.mp3 in Resources */,
+				E58FE33517537805001FC19B /* B12database.sqlite in Resources */,
+				E59380811757789C00ABBAA5 /* A.MP3.aiff in Resources */,
+				E593808417577A1B00ABBAA5 /* Arya_bgm.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -168,6 +379,17 @@
 				E5F154B41741016E00BFC03E /* main.m in Sources */,
 				E5F154B81741016E00BFC03E /* AppDelegate.m in Sources */,
 				E5F154C11741016E00BFC03E /* ViewController.m in Sources */,
+				E54B801C1744B4E600C2998D /* Morning.m in Sources */,
+				FC2D89D417489EDF00BEBFB2 /* Nameofexercise.m in Sources */,
+				E59213431749F66C0078DD76 /* Standing.m in Sources */,
+				E592135B174A04930078DD76 /* standingex.m in Sources */,
+				E5921361174A10D80078DD76 /* laying.m in Sources */,
+				E5921364174A15600078DD76 /* layingex.m in Sources */,
+				E54382F1174B3E8E001D150F /* AddToPlan.m in Sources */,
+				E50407C3175738B0000F156B /* showall.m in Sources */,
+				E5DDA89517575BBD00EC958D /* notification.m in Sources */,
+				E5086EAF1761F78E00BCCF9B /* repeatDays.m in Sources */,
+				E5086EB21761F8A500BCCF9B /* Settings.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,6 +515,7 @@
 				E5F154C61741016E00BFC03E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

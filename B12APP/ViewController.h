@@ -8,6 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+
+@interface ViewController : UIViewController<UITableViewDelegate,UITableViewDataSource,UITabBarDelegate>
+{
+    IBOutlet UINavigationBar *bar;
+    IBOutlet UITabBar *tab1;
+    IBOutlet UITableView *tv;
+    IBOutlet UITabBarItem *item1,*item2,*item3,*item4;
+    NSArray *array;
+    NSString *str;
+    
+}
+
 
 @end
